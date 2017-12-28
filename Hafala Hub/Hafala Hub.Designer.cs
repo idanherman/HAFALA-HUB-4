@@ -41,11 +41,11 @@
             this.FSAutoButton = new System.Windows.Forms.RadioButton();
             this.AlertsArchiveButton = new System.Windows.Forms.RadioButton();
             this.MenuButton = new System.Windows.Forms.RadioButton();
-            this.page_Menu1 = new Hafala_Hub.Page_Menu();
             this.page_Tools1 = new Hafala_Hub.Page_Tools();
-            this.page_FSAuto1 = new Hafala_Hub.Page_FSAuto();
             this.page_Contactlist1 = new Hafala_Hub.Page_Contactlist();
+            this.page_FSAuto1 = new Hafala_Hub.Page_FSAuto();
             this.page_AlertsArchive1 = new Hafala_Hub.Page_AlertsArchive();
+            this.page_Menu1 = new Hafala_Hub.Page_Menu();
             this.UpperPanel.SuspendLayout();
             this.LeftPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
@@ -61,7 +61,7 @@
             this.UpperPanel.Dock = System.Windows.Forms.DockStyle.Top;
             this.UpperPanel.Location = new System.Drawing.Point(0, 0);
             this.UpperPanel.Name = "UpperPanel";
-            this.UpperPanel.Size = new System.Drawing.Size(1096, 42);
+            this.UpperPanel.Size = new System.Drawing.Size(1100, 42);
             this.UpperPanel.TabIndex = 0;
             this.UpperPanel.MouseDown += new System.Windows.Forms.MouseEventHandler(this.UpperPanel_MouseDown);
             this.UpperPanel.MouseMove += new System.Windows.Forms.MouseEventHandler(this.UpperPanel_MouseMove);
@@ -89,7 +89,7 @@
             this.UpperMinimizeButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.UpperMinimizeButton.Image = ((System.Drawing.Image)(resources.GetObject("UpperMinimizeButton.Image")));
             this.UpperMinimizeButton.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.UpperMinimizeButton.Location = new System.Drawing.Point(986, 0);
+            this.UpperMinimizeButton.Location = new System.Drawing.Point(990, 0);
             this.UpperMinimizeButton.Name = "UpperMinimizeButton";
             this.UpperMinimizeButton.Size = new System.Drawing.Size(55, 42);
             this.UpperMinimizeButton.TabIndex = 3;
@@ -105,7 +105,7 @@
             this.UpperExitButton.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Maroon;
             this.UpperExitButton.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Red;
             this.UpperExitButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.UpperExitButton.Location = new System.Drawing.Point(1041, 0);
+            this.UpperExitButton.Location = new System.Drawing.Point(1045, 0);
             this.UpperExitButton.Name = "UpperExitButton";
             this.UpperExitButton.Size = new System.Drawing.Size(55, 42);
             this.UpperExitButton.TabIndex = 2;
@@ -123,9 +123,9 @@
             this.LeftPanel.Controls.Add(this.AlertsArchiveButton);
             this.LeftPanel.Controls.Add(this.MenuButton);
             this.LeftPanel.Dock = System.Windows.Forms.DockStyle.Right;
-            this.LeftPanel.Location = new System.Drawing.Point(782, 42);
+            this.LeftPanel.Location = new System.Drawing.Point(786, 42);
             this.LeftPanel.Name = "LeftPanel";
-            this.LeftPanel.Size = new System.Drawing.Size(314, 583);
+            this.LeftPanel.Size = new System.Drawing.Size(314, 708);
             this.LeftPanel.TabIndex = 1;
             this.LeftPanel.MouseDown += new System.Windows.Forms.MouseEventHandler(this.LeftPanel_MouseDown);
             this.LeftPanel.MouseMove += new System.Windows.Forms.MouseEventHandler(this.LeftPanel_MouseMove);
@@ -268,42 +268,42 @@
             this.MenuButton.UseVisualStyleBackColor = false;
             this.MenuButton.CheckedChanged += new System.EventHandler(this.MenuButton_CheckedChanged);
             // 
-            // page_Menu1
-            // 
-            this.page_Menu1.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.page_Menu1.Location = new System.Drawing.Point(0, 42);
-            this.page_Menu1.Name = "page_Menu1";
-            this.page_Menu1.Size = new System.Drawing.Size(782, 583);
-            this.page_Menu1.TabIndex = 2;
-            // 
             // page_Tools1
             // 
             this.page_Tools1.Location = new System.Drawing.Point(0, 42);
             this.page_Tools1.Name = "page_Tools1";
-            this.page_Tools1.Size = new System.Drawing.Size(782, 583);
-            this.page_Tools1.TabIndex = 6;
-            // 
-            // page_FSAuto1
-            // 
-            this.page_FSAuto1.Location = new System.Drawing.Point(0, 42);
-            this.page_FSAuto1.Name = "page_FSAuto1";
-            this.page_FSAuto1.Size = new System.Drawing.Size(782, 583);
-            this.page_FSAuto1.TabIndex = 5;
+            this.page_Tools1.Size = new System.Drawing.Size(782, 708);
+            this.page_Tools1.TabIndex = 2;
             // 
             // page_Contactlist1
             // 
             this.page_Contactlist1.ForeColor = System.Drawing.Color.DodgerBlue;
             this.page_Contactlist1.Location = new System.Drawing.Point(0, 42);
             this.page_Contactlist1.Name = "page_Contactlist1";
-            this.page_Contactlist1.Size = new System.Drawing.Size(782, 583);
-            this.page_Contactlist1.TabIndex = 4;
+            this.page_Contactlist1.Size = new System.Drawing.Size(782, 708);
+            this.page_Contactlist1.TabIndex = 3;
+            // 
+            // page_FSAuto1
+            // 
+            this.page_FSAuto1.Location = new System.Drawing.Point(-2, 42);
+            this.page_FSAuto1.Name = "page_FSAuto1";
+            this.page_FSAuto1.Size = new System.Drawing.Size(782, 708);
+            this.page_FSAuto1.TabIndex = 4;
             // 
             // page_AlertsArchive1
             // 
             this.page_AlertsArchive1.Location = new System.Drawing.Point(0, 42);
             this.page_AlertsArchive1.Name = "page_AlertsArchive1";
-            this.page_AlertsArchive1.Size = new System.Drawing.Size(782, 583);
-            this.page_AlertsArchive1.TabIndex = 3;
+            this.page_AlertsArchive1.Size = new System.Drawing.Size(782, 708);
+            this.page_AlertsArchive1.TabIndex = 5;
+            // 
+            // page_Menu1
+            // 
+            this.page_Menu1.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.page_Menu1.Location = new System.Drawing.Point(0, 42);
+            this.page_Menu1.Name = "page_Menu1";
+            this.page_Menu1.Size = new System.Drawing.Size(782, 708);
+            this.page_Menu1.TabIndex = 6;
             // 
             // HafalaHub
             // 
@@ -311,14 +311,14 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.ClientSize = new System.Drawing.Size(1096, 625);
-            this.Controls.Add(this.LeftPanel);
-            this.Controls.Add(this.UpperPanel);
+            this.ClientSize = new System.Drawing.Size(1100, 750);
             this.Controls.Add(this.page_Menu1);
-            this.Controls.Add(this.page_Tools1);
+            this.Controls.Add(this.page_AlertsArchive1);
             this.Controls.Add(this.page_FSAuto1);
             this.Controls.Add(this.page_Contactlist1);
-            this.Controls.Add(this.page_AlertsArchive1);
+            this.Controls.Add(this.page_Tools1);
+            this.Controls.Add(this.LeftPanel);
+            this.Controls.Add(this.UpperPanel);
             this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(35)))), ((int)(((byte)(35)))));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
@@ -348,11 +348,11 @@
         private System.Windows.Forms.RadioButton FSAutoButton;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private Page_Menu page_Menu1;
-        private Page_AlertsArchive page_AlertsArchive1;
+        private Page_Tools page_Tools1;
         private Page_Contactlist page_Contactlist1;
         private Page_FSAuto page_FSAuto1;
-        private Page_Tools page_Tools1;
+        private Page_AlertsArchive page_AlertsArchive1;
+        private Page_Menu page_Menu1;
     }
 }
 

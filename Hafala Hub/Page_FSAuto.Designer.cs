@@ -47,7 +47,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.label1);
             this.Name = "Page_FSAuto";
-            this.Size = new System.Drawing.Size(782, 583);
+            this.Size = new System.Drawing.Size(782, 708);
             this.ResumeLayout(false);
             this.PerformLayout();
 

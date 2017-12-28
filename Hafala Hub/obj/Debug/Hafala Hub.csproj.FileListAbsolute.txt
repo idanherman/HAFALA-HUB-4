@@ -35,3 +35,24 @@ C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.HafalaHub.
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.ToolsSettings.resources
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\bin\Debug\MySql.Data.dll
 C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\bin\Debug\MySql.Data.xml
+D:\Hafala Hub\Hafala Hub\bin\Debug\Hafala Hub.exe.config
+D:\Hafala Hub\Hafala Hub\bin\Debug\Hafala Hub.exe
+D:\Hafala Hub\Hafala Hub\bin\Debug\Hafala Hub.pdb
+D:\Hafala Hub\Hafala Hub\bin\Debug\MySql.Data.xml
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala Hub.csprojResolveAssemblyReference.cache
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Alert_Display.resources
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.HafalaHub.resources
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.New_Alert.resources
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Page_AlertsArchive.resources
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Page_Contactlist.resources
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Page_FSAuto.resources
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Page_Menu.resources
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Page_Tools.resources
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.Properties.Resources.resources
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.ToolsSettings.resources
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala Hub.csproj.GenerateResource.Cache
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala Hub.csproj.CoreCompileInputs.cache
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala Hub.exe
+D:\Hafala Hub\Hafala Hub\obj\Debug\Hafala Hub.pdb
+D:\Hafala Hub\Hafala Hub\bin\Debug\MySql.Data.dll
+C:\Users\Idan\source\repos\Hafala Hub\Hafala Hub\obj\Debug\Hafala_Hub.New_Activity.resources

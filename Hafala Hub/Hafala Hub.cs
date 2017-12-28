@@ -15,7 +15,7 @@ namespace Hafala_Hub
     {
         // Variables definitions:
         Point lastClick;
-        public static string DirectoryPath = @"E:\DB\";
+        public static string DirectoryPath = @"E:\DB";
 
         // Initializing application:
         public HafalaHub()
@@ -181,5 +181,6 @@ namespace Hafala_Hub
         {
             lastClick = e.Location;
         }
+
     }
 }

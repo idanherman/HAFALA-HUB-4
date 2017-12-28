@@ -86,7 +86,7 @@
             this.ToolsPanel.Controls.Add(this.ToolsLabel);
             this.ToolsPanel.Location = new System.Drawing.Point(0, 0);
             this.ToolsPanel.Name = "ToolsPanel";
-            this.ToolsPanel.Size = new System.Drawing.Size(782, 583);
+            this.ToolsPanel.Size = new System.Drawing.Size(782, 708);
             this.ToolsPanel.TabIndex = 19;
             // 
             // pictureBox1
@@ -504,7 +504,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.ToolsPanel);
             this.Name = "Page_Tools";
-            this.Size = new System.Drawing.Size(782, 583);
+            this.Size = new System.Drawing.Size(782, 708);
             this.ToolsPanel.ResumeLayout(false);
             this.ToolsPanel.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();

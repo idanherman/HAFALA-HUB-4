@@ -265,7 +265,7 @@
             this.TikshuvPanel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.TikshuvPanel.Location = new System.Drawing.Point(0, 0);
             this.TikshuvPanel.Name = "TikshuvPanel";
-            this.TikshuvPanel.Size = new System.Drawing.Size(782, 583);
+            this.TikshuvPanel.Size = new System.Drawing.Size(782, 708);
             this.TikshuvPanel.TabIndex = 11;
             this.TikshuvPanel.Visible = false;
             this.TikshuvPanel.MouseDown += new System.Windows.Forms.MouseEventHandler(this.TikshuvPanel_MouseDown);
@@ -441,7 +441,7 @@
             this.IAFPanel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.IAFPanel.Location = new System.Drawing.Point(0, 0);
             this.IAFPanel.Name = "IAFPanel";
-            this.IAFPanel.Size = new System.Drawing.Size(782, 583);
+            this.IAFPanel.Size = new System.Drawing.Size(782, 708);
             this.IAFPanel.TabIndex = 15;
             this.IAFPanel.Visible = false;
             this.IAFPanel.MouseDown += new System.Windows.Forms.MouseEventHandler(this.IAFPanel_MouseDown);
@@ -652,7 +652,7 @@
             this.LatzadPanel.Dock = System.Windows.Forms.DockStyle.Fill;
             this.LatzadPanel.Location = new System.Drawing.Point(0, 0);
             this.LatzadPanel.Name = "LatzadPanel";
-            this.LatzadPanel.Size = new System.Drawing.Size(782, 583);
+            this.LatzadPanel.Size = new System.Drawing.Size(782, 708);
             this.LatzadPanel.TabIndex = 17;
             this.LatzadPanel.Visible = false;
             this.LatzadPanel.MouseDown += new System.Windows.Forms.MouseEventHandler(this.LatzadPanel_MouseDown);
@@ -667,7 +667,7 @@
             this.LatzadBackButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.LatzadBackButton.Font = new System.Drawing.Font("Segoe UI Light", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LatzadBackButton.ForeColor = System.Drawing.Color.Black;
-            this.LatzadBackButton.Location = new System.Drawing.Point(234, 515);
+            this.LatzadBackButton.Location = new System.Drawing.Point(222, 651);
             this.LatzadBackButton.Margin = new System.Windows.Forms.Padding(2);
             this.LatzadBackButton.Name = "LatzadBackButton";
             this.LatzadBackButton.Size = new System.Drawing.Size(97, 42);
@@ -695,7 +695,7 @@
             this.OfekImageButton.BackColor = System.Drawing.Color.Transparent;
             this.OfekImageButton.Cursor = System.Windows.Forms.Cursors.Hand;
             this.OfekImageButton.Image = ((System.Drawing.Image)(resources.GetObject("OfekImageButton.Image")));
-            this.OfekImageButton.Location = new System.Drawing.Point(552, 126);
+            this.OfekImageButton.Location = new System.Drawing.Point(551, 126);
             this.OfekImageButton.Name = "OfekImageButton";
             this.OfekImageButton.Size = new System.Drawing.Size(150, 150);
             this.OfekImageButton.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -799,7 +799,7 @@
             this.LatzadBackToFsrtButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.LatzadBackToFsrtButton.Font = new System.Drawing.Font("Segoe UI Light", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.LatzadBackToFsrtButton.ForeColor = System.Drawing.Color.Black;
-            this.LatzadBackToFsrtButton.Location = new System.Drawing.Point(26, 515);
+            this.LatzadBackToFsrtButton.Location = new System.Drawing.Point(14, 651);
             this.LatzadBackToFsrtButton.Margin = new System.Windows.Forms.Padding(2);
             this.LatzadBackToFsrtButton.Name = "LatzadBackToFsrtButton";
             this.LatzadBackToFsrtButton.Size = new System.Drawing.Size(204, 42);
@@ -872,7 +872,7 @@
             this.Controls.Add(this.ContactListLabel);
             this.ForeColor = System.Drawing.Color.DodgerBlue;
             this.Name = "Page_Contactlist";
-            this.Size = new System.Drawing.Size(782, 583);
+            this.Size = new System.Drawing.Size(782, 708);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Page_Contactlist_MouseDown);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Page_Contactlist_MouseMove);
             ((System.ComponentModel.ISupportInitialize)(this.NavyImageButton)).EndInit();

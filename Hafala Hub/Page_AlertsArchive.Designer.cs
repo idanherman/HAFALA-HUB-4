@@ -117,7 +117,7 @@
             this.ReadEditPanel.Location = new System.Drawing.Point(0, 0);
             this.ReadEditPanel.Margin = new System.Windows.Forms.Padding(2);
             this.ReadEditPanel.Name = "ReadEditPanel";
-            this.ReadEditPanel.Size = new System.Drawing.Size(782, 583);
+            this.ReadEditPanel.Size = new System.Drawing.Size(782, 708);
             this.ReadEditPanel.TabIndex = 4;
             this.ReadEditPanel.Visible = false;
             this.ReadEditPanel.MouseDown += new System.Windows.Forms.MouseEventHandler(this.ReadEditPanel_MouseDown);
@@ -267,7 +267,7 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.AddButton);
             this.Name = "Page_AlertsArchive";
-            this.Size = new System.Drawing.Size(782, 583);
+            this.Size = new System.Drawing.Size(782, 708);
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.Page_AlertsArchive_MouseDown);
             this.MouseMove += new System.Windows.Forms.MouseEventHandler(this.Page_AlertsArchive_MouseMove);
             this.ReadEditPanel.ResumeLayout(false);
